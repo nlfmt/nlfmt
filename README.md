@@ -1,14 +1,14 @@
-### Hey, I'm Tom, aka nlfmt!
+## Hey, I'm Tom, aka nlfmt!
 
 - 🎓 I am currently studying Media Informatics in Stuttgart, Germany
 - 💻 At the moment, I like working on my [video downloader](https://github.com/ivy-dl)
-- 💡 I also like to program websites, utilities & anything that's fun
-- ⚡ My skillset is centered around JavaScript, but I often use C++, Python and Java as well
-- 💚 My hobbies include 3D & Graphic Design, Piano and Bouldering
+- 💡 I also like to program **websites**, **utilities**, **games** & anything that's fun
+- ⚡ My skillset is centered around **JavaScript**, but I often use **C++**, **Python** and **Java** as well
+- 💚 My hobbies include **3D & Graphic Design**, **playing Piano** and **Bouldering**
 
 <br/>
 
-### Languages, Frameworks & Tools
+## Languages, Frameworks & Tools I am familiar with:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
