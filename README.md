@@ -1,7 +1,7 @@
 ## Hey, I'm Tom, aka nlfmt!
 
 - 🎓 I am currently studying Media Informatics in Stuttgart, Germany
-- 💻 At the moment, I like working on my [video downloader](https://github.com/ivy-dl)
+- 💻 At the moment, I like working on my discord [music bot](https://github.com/nlfmt/melody)
 - 💡 I also like to program **websites**, **utilities**, **games** & anything that's fun
 - ⚡ My skillset is centered around **JavaScript**, but I often use **C++**, **Python** and **Java** as well
 - 💚 My hobbies include **3D & Graphic Design**, **playing Piano** and **Bouldering**
