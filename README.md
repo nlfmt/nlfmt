@@ -1,9 +1,9 @@
 ## Hey, I'm Tom, aka nlfmt!
 
-- 🎓 I am currently studying Media Informatics in Stuttgart, Germany
+- 🎓 I am currently studying Computer Science & Media in Stuttgart, Germany
 - 💻 At the moment, I like working on my discord [music bot](https://github.com/nlfmt/bassbot)
 - 💡 I also like to program **websites**, **utilities**, **games** & anything that's fun
-- ⚡ My skillset is centered around **TypeScript**, but I often use **C++**, **Python** and **Java** as well
+- ⚡ My skillset is centered around **TypeScript**, but I often use **Rust**, **C++**, **Python** and **Java** as well
 - 💚 My hobbies include **3D & Graphic Design**, **playing Piano** and **Bouldering**
 
 <br/>
